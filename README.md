@@ -1,4 +1,8 @@
-### Hi, I'm Thomas
+## Hi, I'm Thomas
+
+I am a Senior Software engineer working for Optum Inc.
+
+
 
 <!--
 **tkottke90/tkottke90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
