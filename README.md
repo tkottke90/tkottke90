@@ -10,7 +10,6 @@ I am a software engineer passionate about building solutions to everyday problem
   - Check me out on Youtube at [TDK Motorsports](https://www.youtube.com/@tdk_motorsports3064)
 - I am a gamer
 - I enjoy stepping out of my comfort zone with food and beverages (including homebrewing)
-- I am neurodivergent
 
 
 ## What am I working on?
