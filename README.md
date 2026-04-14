@@ -9,13 +9,13 @@ I am a software engineer passionate about building solutions to everyday problem
 - I am a motorsports fan (GT3 is my favorite)
   - Check me out on Youtube at [TDK Motorsports](https://www.youtube.com/@tdk_motorsports3064)
 - I am a gamer
-- I enjoy stepping out of my comfort zone with food and beverages (including homebrewing)
 
 
 ## What am I working on?
 
-- An AI Assistant application
-- Expanding my home lab
+- Learning about AI Agent Driven Applications
+- Local/Self Hosted AI Solutions
+- Streaming Automation
 
 <!--
 **tkottke90/tkottke90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
